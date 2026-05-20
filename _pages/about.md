@@ -20,11 +20,11 @@ redirect_from:
 
 I am a **tenured Associate Professor** at the [School of Computing and Artificial Intelligence](https://scai.sufe.edu.cn/), [Shanghai University of Finance and Economics (SUFE)](https://www.sufe.edu.cn/). I received my Ph.D. from [The University of Hong Kong](https://www.hku.hk/) in 2018, and my Bachelor's degree from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2013. I have published over 50 papers in top-tier international conferences and high-impact journals, including ACL, EMNLP, ICML, NeurIPS, ICLR, SIGKDD, NAACL, AAAI, TASLP.
 
-My research interests span **Large Language Models**, **Multimodal AI**, **LLM-based Agents**, and **AI for Finance**. See my [Google Scholar](https://scholar.google.com/citations?user=vXd0JQMAAAAJ&hl=zh-CN) for publication details. Feel free to reach out at [yunchen@sufe.edu.cn](mailto:yunchen@sufe.edu.cn).
+My research interests span **Large Language Models**, **Multimodal AI**, **LLM-based Agents**, and **AI for Finance**. Feel free to reach out at [yunchen@sufe.edu.cn](mailto:yunchen@sufe.edu.cn).
 
 <div style="background-color: #d1ecf1; padding:0.6em 0.9em; border-radius:6px; margin-top:0.6em;">
-  📣 <strong>Positions available: Master / PhD program students.</strong><br>
-  招收博士生、硕士生和本科生，欢迎有志于研究大模型、智能体、多模态模型和智慧金融的同学加入本课题组！请附简历邮件联系。
+  📣 <strong>Positions available: Master / PhD program students for 2027 fall.</strong><br>
+  招收博士生、硕士生，并长期招收访问学生，欢迎有志于研究大模型、智能体、多模态模型和金融科技的同学加入本课题组！请附简历邮件联系。
 </div>
 
 
@@ -42,13 +42,13 @@ My research interests span **Large Language Models**, **Multimodal AI**, **LLM-b
 - *2025.07*: &nbsp;Serving as Area Chair for ARR 2025 July.
 - *2025.05*: &nbsp;🎉🎉 Three papers accepted by ACL 2025: **ImPart**, **TAG-Instruct**, **FANNO**.
 - *2025.01*: &nbsp;🎉🎉 Four papers accepted by NAACL 2025: **MiLoRA**, **SeqAR**, **FinEval**, **LayAlign**.
-- *2024.09*: &nbsp;🎉🎉 Two papers accepted by NeurIPS 2024: **SeTAR** and **Delta-CoMe**.
+<!-- - *2024.09*: &nbsp;🎉🎉 Two papers accepted by NeurIPS 2024: **SeTAR** and **Delta-CoMe**.
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by EMNLP 2024 on automatic jailbreak attack.
 - *2024.05*: &nbsp;🎉🎉 Two papers accepted by ACL 2024: **LoRA-Flow** and **PACIT**.
 - *2024.03*: &nbsp;📘 Released the *Technology and Security White Paper on the Application of Large Language Models in Finance* with Ant Group and BCTC.
 - *2023.08*: &nbsp;🏆 **Best English Paper Award** at CCL 2023 for *Lexical Complexity Controlled Sentence Generation*.
 - *2023.05*: &nbsp;🎉🎉 One paper accepted by ACL 2023: **mCLIP**.
-- *2023.04*: &nbsp;Serving as Area Chair for CCL 2023.
+- *2023.04*: &nbsp;Serving as Area Chair for CCL 2023. -->
 
 
 # 📝 Selected Publications 

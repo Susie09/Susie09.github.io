@@ -211,7 +211,7 @@ My research interests span **Large Language Models**, **Multimodal AI**, **LLM-b
 - Long-term reviewer for journals inlcuding TPAMI, AIJ, FCS, TALLIP.
 </div>
   
-<div id="students" style="padding-top:80px;">
+<div id="students">
 # 👥 Graduate Student Supervision
 
 Supervised 13 graduate students, with 2 graduates to date. Notable student achievements include:

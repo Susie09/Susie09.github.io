@@ -16,6 +16,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
+<div id="about" style="padding-top:80px;">
 # 👋 Hi !
 
 I am a **tenured Associate Professor** at the [School of Computing and Artificial Intelligence](https://scai.sufe.edu.cn/), [Shanghai University of Finance and Economics (SUFE)](https://www.sufe.edu.cn/). I received my Ph.D. from [The University of Hong Kong](https://www.hku.hk/) in 2018, and my Bachelor's degree from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2013. I have published over 50 papers in top-tier international conferences and high-impact journals, including ACL, EMNLP, ICML, NeurIPS, ICLR, SIGKDD, NAACL, AAAI, TASLP.
@@ -26,8 +27,10 @@ My research interests span **Large Language Models**, **Multimodal AI**, **LLM-b
   📣 <strong>Positions available: Master / PhD program students for 2027 fall.</strong><br>
   招收博士生、硕士生，并长期招收访问学生，欢迎有志于研究大模型、智能体、多模态模型和金融科技的同学加入本课题组！请附简历邮件联系。
 </div>
+</div>
 
 
+<div id="news" style="padding-top:80px;">
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 One paper accepted by SIGKDD 2026 (Research Track): **SAFT** .
 - *2026.05*: &nbsp;🎉🎉 My PhD student [Zeguan Xiao](https://zeguanxiao.github.io/) has successfully completed his thesis defense. Congratulations!
@@ -42,8 +45,9 @@ My research interests span **Large Language Models**, **Multimodal AI**, **LLM-b
 - *2025.07*: &nbsp;Serving as Area Chair for ARR 2025 July.
 - *2025.05*: &nbsp;🎉🎉 Three papers accepted by ACL 2025: **ImPart**, **TAG-Instruct**, **FANNO**.
 - *2025.01*: &nbsp;🎉🎉 Four papers accepted by NAACL 2025: **MiLoRA**, **SeqAR**, **FinEval**, **LayAlign**.
+</div>
 
-
+<div id="publications" style="padding-top:80px;">
 # 📝 Selected Publications 
 
 ## 2026
@@ -174,18 +178,22 @@ My research interests span **Large Language Models**, **Multimodal AI**, **LLM-b
 
 1. **A Teacher-Student Framework for Zero-Resource Neural Machine Translation**<br>
   **Yun Chen**, Yang Liu, Yong Cheng, Victor O.K. Li. *ACL 2017 Main (CCF-A).* [\[PDF\]](http://aclweb.org/anthology/P17-1176)
+</div>
 
 
 <!-- # 🎓 Education
 - *2014.09 – 2018.06*, Ph.D., Department of Electrical and Electronic Engineering, **The University of Hong Kong**.
 - *2009.09 – 2013.06*, B.Eng., **Tsinghua University**, Beijing. -->
 
-
+<div id="grants" style="padding-top:80px;">
 # 💸 Research Grants (as PI)
+
 - National Natural Science Foundation of China (NSFC) - Young Scientists Fund
 - National Natural Science Foundation of Shanghai - Young Scientists Fund
 - Shanghai Youth Science and Technology Talent Sailing Program
+</div>
 
+<div id="awards" style="padding-top:80px;">
 # 🏆 Awards
 
 - Outstanding Young Female Scholar of SUFE（2025）
@@ -193,20 +201,26 @@ My research interests span **Large Language Models**, **Multimodal AI**, **LLM-b
 - Star Scholar Program of MSRA (2023)
 - Best English Paper Award of CCL (2023) 
 - Overseas High-Level Talents of Shanghai（2020）
+</div>
 
+<div id="service" style="padding-top:80px;">
 # 👨‍🏫 Academic Service
+
 - Long-term Area Chair for ACL Rolling Review.
 - Long-term reviewer for CCF Class A conferences including ICML, ICLR, KDD, AAAI.
 - Long-term reviewer for journals inlcuding TPAMI, AIJ, FCS, TALLIP.
+</div>
   
+<div id="students" style="padding-top:80px;">
 # 👥 Graduate Student Supervision
+
 Supervised 13 graduate students, with 2 graduates to date. Notable student achievements include:
 - Two graduent students received the Academic Star Award of SUFE (Hanqing Wang 2025; one of five university-wide recipients) and the Academic Star Nomination Award of SUFE (Yan Yang 2025; one of ten university-wide recipients).
 - One master student (Boya Xiong 2026) was honored as a 'Shanghai Outstanding Graduate'.
 - Two master students (Yan Yang 2026, Yajing Luo 2025) and one PhD student (Zeguan Xiao 2026) were honored as 'Outstanding Graduates of SUFE'.
 - Two graduent students received National Scholarship (Yan Yang 2025, Hanqing Wang 2025).
 - One undergraduate student (Jiayang Li 2025) received the 'Outstanding Graduation Thesis of SUFE'.
-
+</div>
 
 
 <!-- # 👥 Students

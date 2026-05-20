@@ -1,22 +1,22 @@
 # main links
 main:
   - title: "About"
-    url: "/#about-me"
+    url: "/#about"
 
   - title: "News"
-    url: "/#-News"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-Selected Publications"
+    url: "/#publications"
 
   - title: "Grants"
-    url: "/#-Research Grants (as PI)"
+    url: "/#grants"
 
   - title: "Awards"
-    url: "/#-Awards"
+    url: "/#awards"
 
   - title: "Service"
-    url: "/#-Academic Service"
+    url: "/#service"
 
   - title: "Students"
-    url: "/#-Graduate Student Supervision"
+    url: "/#students"

@@ -42,13 +42,6 @@ My research interests span **Large Language Models**, **Multimodal AI**, **LLM-b
 - *2025.07*: &nbsp;Serving as Area Chair for ARR 2025 July.
 - *2025.05*: &nbsp;🎉🎉 Three papers accepted by ACL 2025: **ImPart**, **TAG-Instruct**, **FANNO**.
 - *2025.01*: &nbsp;🎉🎉 Four papers accepted by NAACL 2025: **MiLoRA**, **SeqAR**, **FinEval**, **LayAlign**.
-<!-- - *2024.09*: &nbsp;🎉🎉 Two papers accepted by NeurIPS 2024: **SeTAR** and **Delta-CoMe**.
-- *2024.09*: &nbsp;🎉🎉 One paper accepted by EMNLP 2024 on automatic jailbreak attack.
-- *2024.05*: &nbsp;🎉🎉 Two papers accepted by ACL 2024: **LoRA-Flow** and **PACIT**.
-- *2024.03*: &nbsp;📘 Released the *Technology and Security White Paper on the Application of Large Language Models in Finance* with Ant Group and BCTC.
-- *2023.08*: &nbsp;🏆 **Best English Paper Award** at CCL 2023 for *Lexical Complexity Controlled Sentence Generation*.
-- *2023.05*: &nbsp;🎉🎉 One paper accepted by ACL 2023: **mCLIP**.
-- *2023.04*: &nbsp;Serving as Area Chair for CCL 2023. -->
 
 
 # 📝 Selected Publications 
@@ -192,6 +185,14 @@ My research interests span **Large Language Models**, **Multimodal AI**, **LLM-b
 - National Natural Science Foundation of China (NSFC) - Young Scientists Fund
 - National Natural Science Foundation of Shanghai - Young Scientists Fund
 - Shanghai Youth Science and Technology Talent Sailing Program
+
+# 🏆 Awards
+
+- Outstanding Young Female Scholar of SUFE（2025）
+- Excellent Supervisor of Graduation Thesis（2025）
+- Star Scholar Program of MSRA (2023)
+- Best English Paper Award of CCL (2023) 
+- Overseas High-Level Talents of Shanghai（2020）
 
 # 👨‍🏫 Academic Service
 - Long-term Area Chair for ACL Rolling Review.

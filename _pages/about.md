@@ -16,7 +16,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-<div id="about" style="padding-top:80px;">
+<div id="about">
 # 👋 Hi !
 
 I am a **tenured Associate Professor** at the [School of Computing and Artificial Intelligence](https://scai.sufe.edu.cn/), [Shanghai University of Finance and Economics (SUFE)](https://www.sufe.edu.cn/). I received my Ph.D. from [The University of Hong Kong](https://www.hku.hk/) in 2018, and my Bachelor's degree from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2013. I have published over 50 papers in top-tier international conferences and high-impact journals, including ACL, EMNLP, ICML, NeurIPS, ICLR, SIGKDD, NAACL, AAAI, TASLP.
@@ -30,7 +30,7 @@ My research interests span **Large Language Models**, **Multimodal AI**, **LLM-b
 </div>
 
 
-<div id="news" style="padding-top:80px;">
+<div id="news">
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 One paper accepted by SIGKDD 2026 (Research Track): **SAFT** .
 - *2026.05*: &nbsp;🎉🎉 My PhD student [Zeguan Xiao](https://zeguanxiao.github.io/) has successfully completed his thesis defense. Congratulations!
@@ -47,7 +47,7 @@ My research interests span **Large Language Models**, **Multimodal AI**, **LLM-b
 - *2025.01*: &nbsp;🎉🎉 Four papers accepted by NAACL 2025: **MiLoRA**, **SeqAR**, **FinEval**, **LayAlign**.
 </div>
 
-<div id="publications" style="padding-top:80px;">
+<div id="publications">
 # 📝 Selected Publications 
 
 ## 2026
@@ -185,7 +185,7 @@ My research interests span **Large Language Models**, **Multimodal AI**, **LLM-b
 - *2014.09 – 2018.06*, Ph.D., Department of Electrical and Electronic Engineering, **The University of Hong Kong**.
 - *2009.09 – 2013.06*, B.Eng., **Tsinghua University**, Beijing. -->
 
-<div id="grants" style="padding-top:80px;">
+<div id="grants">
 # 💸 Research Grants (as PI)
 
 - National Natural Science Foundation of China (NSFC) - Young Scientists Fund
@@ -193,7 +193,7 @@ My research interests span **Large Language Models**, **Multimodal AI**, **LLM-b
 - Shanghai Youth Science and Technology Talent Sailing Program
 </div>
 
-<div id="awards" style="padding-top:80px;">
+<div id="awards">
 # 🏆 Awards
 
 - Outstanding Young Female Scholar of SUFE（2025）
@@ -203,7 +203,7 @@ My research interests span **Large Language Models**, **Multimodal AI**, **LLM-b
 - Overseas High-Level Talents of Shanghai（2020）
 </div>
 
-<div id="service" style="padding-top:80px;">
+<div id="service">
 # 👨‍🏫 Academic Service
 
 - Long-term Area Chair for ACL Rolling Review.

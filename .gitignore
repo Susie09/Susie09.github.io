@@ -3,4 +3,3 @@ _site/
 .jekyll-cache/
 .history/
 Gemfile.lock
-Gemfile.lock*

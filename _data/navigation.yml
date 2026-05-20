@@ -4,16 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#-News"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-Selected Publications"
 
-  - title: "Education"
-    url: "/#-education"
+  - title: "Research Grants"
+    url: "/#-Research Grants (as PI)"
 
-  - title: "Service"
-    url: "/#-academic-service"
+  - title: "Awards"
+    url: "/#-Awards"
+
+  - title: "Academic Service"
+    url: "/#-Academic Service"
 
   - title: "Students"
-    url: "/#-students"
+    url: "/#-Graduate Student Supervision"

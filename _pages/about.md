@@ -80,9 +80,11 @@ My research interests span **Large Language Models**, **Multimodal AI**, **LLM-b
   Hanqing Wang, Yongdong Chi, Jian Yang, Lei Yang, Jiehui Zhao, **Yun Chen**, Guanhua Chen. *Findings of ACL 2026.*
 14. **BiasScope: Towards Automated Detection of Bias in LLM-as-a-Judge Evaluation**<br>
   Peng Lai, Zhihao Ou, Yong Wang, Longyue Wang, Jian Yang, **Yun Chen**, Guanhua Chen. *ICLR 2026 (CCF-A).*
-15. **Compound-QA: A Benchmark for Evaluating LLMs on Compound Questions**<br>
+15. **InfoScan: Information-Efficient Visual Scanning via Resource-Adaptive Walks**<br>
+  Yifeng Wu, Huimin Huang, Shangjie Zhou, Yawen Huang, Hao Zheng, **Yun Chen**, Xian Wu, Ruize Han, Guanhua Chen. *ICLR 2026 (CCF-A).*
+16. **Compound-QA: A Benchmark for Evaluating LLMs on Compound Questions**<br>
   Yutao Hou, Yajing Luo, Zhiwen Ruan, Hongru Wang, Weifeng Ge, **Yun Chen**, Guanhua Chen. *ICASSP 2026 (CCF-B).*
-16. **Enhancing Uncertainty Estimation in LLMs with Expectation of Aggregated Internal Belief**<br>
+17. **Enhancing Uncertainty Estimation in LLMs with Expectation of Aggregated Internal Belief**<br>
   Zeguan Xiao, Diyang Dou, Boya Xiong, **Yun Chen**, Guanhua Chen. *AAAI 2026 (CCF-A).*
 
 ## 2025
